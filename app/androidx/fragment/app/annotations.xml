@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.fragment.app.FragmentActivity void onBackPressed()'>
+        <annotation name='org.jetbrains.annotations.Blocking' />
+    </item>
+</root>
